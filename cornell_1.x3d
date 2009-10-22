@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X3D>
+ <Scene>
+  <Transform DEF="V2Grp01"
+    translation="0 0 0"
+    rotation="-1 0 0 -1.571">
+      <Transform DEF="V2Grp02"
+        translation="0 0 0"
+        rotation="-1 0 0 -1.571">
+          <Transform DEF="V2Grp03"
+            translation="-277.1 273.4 270.9"
+            rotation="-1 0 0 -1.571">
+              <Transform DEF="VSep01"
+                translation="0 0 0"
+                rotation="-1 0 0 -1.571">
+                  <Transform DEF="VSep02"
+                    translation="0 0 -1.115e-005">
+                      <Transform DEF="VIFS01"
+                        translation="0 0 -1.115e-005">
+                          <Transform DEF="VIFS01_FACES01"
+                            translation="0 0 -1.115e-005">
+                              <Transform DEF="VIFS01_FACES01_FACES01"
+                                translation="0 0 -1.115e-005">
+                                  <Transform DEF="VIFS01_FACES01_FACES01_FACES01"
+                                    translation="0 0 -1.115e-005">
+                                      <Shape>
+                                         <Appearance>
+                                            <Material
+		                                     diffuseColor="0.9 0.9 0.9"
+                                             ambientIntensity="1.0"
+                                             specularColor="0 0 0"
+                                             shininess="0.05625"
+                                             transparency="0"/>
+                                         <IndexedFaceSet DEF="VIFS01_FACES01_FACES01_FACES01-FACES"
+                                           ccw="TRUE"
+                                           solid="FALSE"
+                                           convex="TRUE"
+                                           coordIndex="0 1 2 3 -1 4 5 6 7 -1 6 5 3 2 -1">
+                                             <Coordinate DEF="VIFS01_FACES01_FACES01_FACES01-COORD"
+                                               point="552.8 0 0 0 0 0 0 0 559.2 549.6 0 559.2 556 548.8 0 556 548.8 559.2 0 548.8 559.2
+                                               0 548.8 0"/>
+                                          </IndexedFaceSet>
+                                         </Appearance>
+                                      </Shape>
+                                   </Transform>
+                               </Transform>
+                           </Transform>
+                       </Transform>
+                      <Transform DEF="VIFS02"
+                        translation="0 0 -1.115e-005">
+                          <Transform DEF="VIFS02_FACES01"
+                            translation="0 0 -1.115e-005">
+                              <Transform DEF="VIFS02_FACES01_FACES01"
+                                translation="0 0 -1.115e-005">
+                                  <Transform DEF="VIFS02_FACES01_FACES01_FACES01"
+                                    translation="0 0 -1.115e-005">
+                                      <Shape>
+                                         <Appearance>
+                                            <Material
+                                             diffuseColor="0 0.9 0"
+                                             ambientIntensity="1.0"
+                                             specularColor="0 0 0"
+                                             shininess="0.05625"
+                                             transparency="0"/>
+                                         <IndexedFaceSet DEF="VIFS02_FACES01_FACES01_FACES01-FACES"
+                                           ccw="TRUE"
+                                           solid="FALSE"
+                                           convex="TRUE"
+                                           coordIndex="0 1 2 3 -1">
+                                             <Coordinate DEF="VIFS02_FACES01_FACES01_FACES01-COORD"
+                                               point="0 548.8 0 0 548.8 559.2 0 0 559.2 0 0 0"/>
+                                          </IndexedFaceSet>
+                                         </Appearance>
+                                      </Shape>
+                                   </Transform>
+                               </Transform>
+                           </Transform>
+                       </Transform>
+                      <Transform DEF="VIFS03"
+                        translation="0 0 -1.115e-005">
+                          <Transform DEF="VIFS03_FACES01"
+                            translation="0 0 -1.115e-005">
+                              <Transform DEF="VIFS03_FACES01_FACES01"
+                                translation="0 0 -1.115e-005">
+                                  <Transform DEF="VIFS03_FACES01_FACES01_FACES01"
+                                    translation="0 0 -1.115e-005">
+                                      <Shape>
+                                         <Appearance>
+                                            <Material
+                                             diffuseColor="0.9 0 0"
+                                             ambientIntensity="1.0"
+                                             specularColor="0 0 0"
+                                             shininess="0.05625"
+                                             transparency="0"/>
+                                         <IndexedFaceSet DEF="VIFS03_FACES01_FACES01_FACES01-FACES"
+                                           ccw="TRUE"
+                                           solid="FALSE"
+                                           convex="TRUE"
+                                           coordIndex="0 1 2 3 -1">
+                                             <Coordinate DEF="VIFS03_FACES01_FACES01_FACES01-COORD"
+                                               point="552.8 0 0 549.6 0 559.2 556 548.8 559.2 556 548.8 0"/>
+                                          </IndexedFaceSet>
+                                         </Appearance>
+                                      </Shape>
+                                   </Transform>
+                               </Transform>
+                           </Transform>
+                       </Transform>
+                   </Transform>
+                  <Transform DEF="VSep03"
+                    translation="0 0 -1.115e-005">
+                      <Transform DEF="VCube01"
+                        translation="185 82.5 169"
+                        rotation="0 1 0 -0.29">
+                          <Transform DEF="VCube01_FACES01"
+                            translation="0 0 0">
+                              <Transform DEF="VCube01_FACES01_FACES01"
+                                translation="0 0 0"/>
+                           </Transform>
+                       </Transform>
+                   </Transform>
+                  <Transform DEF="VSep04"
+                    translation="0 0 -1.115e-005">
+                      <Transform DEF="VCube02"
+                        translation="368 165 351"
+                        rotation="0 1 0 -1.27">
+                          <Transform DEF="VCube02_FACES01"
+                            translation="0 0 0">
+                              <Transform DEF="VCube02_FACES01_FACES01"
+                                translation="0 0 0"/>
+                           </Transform>
+                       </Transform>
+                   </Transform>
+               </Transform>
+           </Transform>
+       </Transform>
+      <Transform DEF="Plane01"
+        translation="2.453 -1.292 -262">
+          <Transform DEF="Plane01_FACES01"
+            translation="0 0 0">
+              <Shape>
+                 <Appearance>
+                    <Material
+                     emissiveColor="1 1 1"
+                     diffuseColor="0 0 0"
+                     ambientIntensity="1.0"
+                     specularColor="0 0 0"
+                     shininess="0.06236"
+                     transparency="0"/>
+                 <IndexedFaceSet DEF="Plane01_FACES01-FACES"
+                   ccw="TRUE"
+                   solid="TRUE"
+                   convex="TRUE"
+                   coordIndex="0 1 2 3 -1">
+                     <Coordinate DEF="Plane01_FACES01-COORD"
+                       point="-80 80 0 -80 -80 0 80 -80 0 80 80 0"/>
+                  </IndexedFaceSet>
+                 </Appearance>
+              </Shape>
+           </Transform>
+       </Transform>
+   </Transform>
+ </Scene>
+</X3D>

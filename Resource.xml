@@ -1,0 +1,10 @@
+<Resource>
+ <Values
+   hemicube_size="200"
+   form_factor_method="hemicube"
+   patch_subdivision_size="40.0"
+   light_subdivision_size="120.0"
+   file_name="cornell_2.x3d"
+   />
+</Resource>
+
